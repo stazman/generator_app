@@ -1,0 +1,1 @@
+This is a Spring Boot 5 project that generates a random Chuck Norris joke from a collection of them.
